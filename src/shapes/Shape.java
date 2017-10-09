@@ -9,6 +9,7 @@ public abstract class Shape implements Comparable<Shape> {
 	 * Also you need to finish implementing the Square and Circle classes.
 	 */
 	public int compareTo(Shape shape) {
+		return 0;
 		// TODO Implement me
 	}
 
